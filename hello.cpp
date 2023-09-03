@@ -4,6 +4,6 @@ using namespace std;
 
 int main()
 {
-	std::cout<<"hello world\n";
+	std::cout<<"linquanzhi\n";
 	return 0;
 }
